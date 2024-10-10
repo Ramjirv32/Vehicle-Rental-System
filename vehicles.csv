@@ -1,0 +1,9 @@
+VehicleID,VehicleNo,Brand,AvailableCount,Amount,Status
+1,ABC123,Toyota,5,10000,not booked
+2,XYZ456,Honda,3,10000,not booked
+3,LMN789,Ford,4,10000,not booked
+4,GHI012,Chevrolet,2,10000,not booked
+5,JKL345,Nissan,6,10000,not booked
+6,MNO678,BMW,3,10000,not booked
+7,PQR901,Audi,6,10000,not booked
+23,RF,4,5,10000,not booked

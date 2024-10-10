@@ -1,0 +1,10 @@
+BikeID,BikeNo,Brand,AvailableCount,Amount,Status
+1,BIK111,Yamaha,3,3000,not booked
+2,BIK222,Suzuki,2,3000,not booked
+4,BIK444,Ducati,5,3000,not booked
+5,BIK555,Kawasaki,2,3000,not booked
+6,BIK666,RoyalEnfield,3,3000,not booked
+7,BIK777,Honda,1,3000,not booked
+8,BIK888,BMW,4,3000,not booked
+9,BIK999,Triumph,2,3000,not booked
+10,BIK010,KTM,5,3000,not booked
